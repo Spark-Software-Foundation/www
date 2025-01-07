@@ -1,5 +1,14 @@
 body {
+    margin: auto;
     background-color: black;
     color: white;
     font-family: 'Courier New', Courier, monospace;
+}
+.text-wrapper {
+    margin: auto;
+    padding: 20px;
+}
+p {
+    text-align: center;
+    font-size: 150%;
 }
